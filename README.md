@@ -1,5 +1,5 @@
 # Fluid Slider Flutter
-The component created with [Flutter](https://flutter.dev/) using Dart programming language, inspired by [Fluid Slider by Ramotion](https://github.com/Ramotion/fluid-slider). 
+The component created with [Flutter](https://flutter.dev/) using Dart programming language, inspired in [Fluid Slider by Ramotion](https://github.com/Ramotion/fluid-slider). 
 
 ## About
 The component was created to better simulate all the component behavior in the inspiration video. The component is editable and only require the Flutter framework and no other third-party library.
